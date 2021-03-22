@@ -1,0 +1,1 @@
+# Lenovo-ideapad-3-14iil05-Hackintosh
