@@ -10,7 +10,7 @@ Penggunaan EFI Laptop Lenovo Ideapad 3 14iil05 di luar tanggung jawab saya, jika
 Saya menggunakan OpenCore versi 0.6.7
 
 # Spesifikasi
-- <b>CPU</b>: [Intel i5-1035G4]https://ark.intel.com/content/www/id/id/ark/products/196591/intel-core-i5-1035g4-processor-6m-cache-up-to-3-70-ghz.html) (Ice Lake-U)
+- <b>CPU</b>: Intel i5-1035G4 https://ark.intel.com/content/www/id/id/ark/products/196591/intel-core-i5-1035g4-processor-6m-cache-up-to-3-70-ghz.html (Ice Lake-U)
 - <b>GPU</b>: Intel Iris Plus Graphics 940 Ice Lake GT2 
 - <b>Penyimpanan</b>: HDD OOS500G32M 500 GB (bisa diganti SSD M.2 NVME)
 - <b>RAM</b>: 4 GB DDR4 2133Mhz (bisa di upgrade, tersedia 1 slot kosong)
@@ -22,18 +22,19 @@ Saya menggunakan OpenCore versi 0.6.7
 
 # Yang berfungsi
 - CPU power management 
-- Battery (Cycles doesn't show properly)
+- Baterai
 - Semua port USB
 - Realtek ALC230 Audio (termasuk jack headphones)
 - Wi-Fi & Bluetooth
 - Internal webcam
 - ELAN Trackpad
 - Screen Brightness dengan Hotkeys
-- Fn keys and Hotkeys lock
+- Kunci Fn
 - 10.14 Mojave, 10.15 Catalina, and Big Sur 11
 
-# Credits
+# Kredit
 - [Apple](https://www.apple.com) for macOS.
 - [Acidanthera](https://github.com/acidanthera) for most of the kexts.
 - [RehabMan](https://github.com/RehabMan) for some ACPI patches.
-- And anyone else that helped to develop and improve hackintoshing.
+- [Hackintosh Lovers] (https://t.me/HackintoshLover) for the help.
+- Dan semua pihak yang tidak bisa kami sebutkan satu per satu.
