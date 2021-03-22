@@ -36,5 +36,5 @@ Saya menggunakan OpenCore versi 0.6.7
 - [Apple](https://www.apple.com) for macOS.
 - [Acidanthera](https://github.com/acidanthera) for most of the kexts.
 - [RehabMan](https://github.com/RehabMan) for some ACPI patches.
-- [Hackintosh Lovers] (https://t.me/HackintoshLover) for the help.
+- [Hackintosh Lovers](https://t.me/HackintoshLover) for the help.
 - Dan semua pihak yang tidak bisa kami sebutkan satu per satu.
