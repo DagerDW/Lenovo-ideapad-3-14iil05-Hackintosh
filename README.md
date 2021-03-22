@@ -1,4 +1,4 @@
-# Lenovo-ideapad-3-14iil05-Hackintosh
+# Lenovo ideapad 3 14iil05 Hackintosh
 [![Release](https://img.shields.io/badge/download-release-blue.svg)]()
 
 EFI file untuk Lenovo Ideapad 3 14iil05
@@ -7,7 +7,7 @@ EFI file untuk Lenovo Ideapad 3 14iil05
 Penggunaan EFI Laptop Lenovo Ideapad 3 14iil05 di luar tanggung jawab saya, jika ada kerusakan pemasangan silahkan tanggung jawab sendiri, saya menggunakan MacOS Catalina, bisa di upgrade sampai MacOS Big Sur
 
 # Bootloader
-Saya menggunakan OpenCore versi 0.6.7
+Saya menggunakan [OpenCore 0.6.7](https://github.com/acidanthera/OpenCorePkg)
 
 # Spesifikasi
 - <b>CPU</b>: [Intel i5-1035G4](https://ark.intel.com/content/www/id/id/ark/products/196591/intel-core-i5-1035g4-processor-6m-cache-up-to-3-70-ghz.html) Ice Lake-U
