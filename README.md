@@ -20,7 +20,7 @@ Saya menggunakan OpenCore versi 0.6.7
 - <b>Ports</b>: 1 x USB 2.0, 2 x USB 3.0, USB 2.0 SD Card Reader, HDMI Display Port, 3,5mm Jack Audio
 - <b>Audio</b>: Realtek ALC230 (saya menggunakan AppleALC layout id 20)
 
-# Yang berfungsi
+# Yang Berfungsi
 - CPU power management 
 - Baterai
 - Semua port USB
@@ -31,6 +31,16 @@ Saya menggunakan OpenCore versi 0.6.7
 - Screen Brightness dengan Hotkeys
 - Kunci Fn
 - 10.14 Mojave, 10.15 Catalina, and Big Sur 11
+
+## Yang Tidak Berfungsi
+- Silahkan bergabung di telegram [Hackintosh Lovers](https://t.me/HackintoshLover) untuk berdiskusi.
+
+# Setelan BIOS
+Sebelum memulai, pastikan untuk mengupdate BIOS [di sini](https://pcsupport.lenovo.com/id/en/products/laptops-and-netbooks/3-series/ideapad-3-14iil05/downloads/driver-list/), setelah itu reboot, ketika logo Lenovo muncul tekan <b>F2</b>, ketika layar BIOS tampil pergi ke: 
+- "Configuration" <b>SATA Controller Mode</b> rubah ke <b>AHCI</b>, <b>HotKey Mode</b> rubah ke <b>Enabled</b>.
+- "Security" <b>Intel Platform Trust Technology</b> rubah ke <b>Disabled</b>, <b>Intel SGX</b> rubah ke <b>Disabled</b>, <b>Secure Boot</b> rubah ke <b>Disabled</b>.
+- "Boot" <b>Boot Mode</b> rubah ke <b>UEFI</b>,<b>Fast Boot</b> rubah ke <b>Disabled</b>, <b>USB Boot</b> rubah ke <b>Enabled</b>.
+- "Exit" <b>OS Optimized Defaults</b> rubah ke <b>Disabled</b>.
 
 # Kredit
 - [Apple](https://www.apple.com) for macOS.
