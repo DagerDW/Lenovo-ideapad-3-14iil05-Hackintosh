@@ -47,4 +47,5 @@ Sebelum memulai, pastikan untuk mengupdate BIOS [di sini](https://pcsupport.leno
 - [Acidanthera](https://github.com/acidanthera) for most of the kexts.
 - [RehabMan](https://github.com/RehabMan) for some ACPI patches.
 - [Hackintosh Lovers](https://t.me/HackintoshLover) for the help.
+- [Olarila](https://www.olarila.com) for guides.
 - Dan semua pihak yang tidak bisa kami sebutkan satu per satu.
