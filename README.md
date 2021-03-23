@@ -2,6 +2,7 @@
 [![Release](https://img.shields.io/badge/download-release-blue.svg)]()
 
 EFI file untuk Lenovo Ideapad 3 14iil05
+![](Images/Lenovo.png)
 
 # Catatan
 Penggunaan EFI Laptop Lenovo Ideapad 3 14iil05 di luar tanggung jawab saya, jika ada kerusakan pemasangan silahkan tanggung jawab sendiri, saya menggunakan MacOS Catalina, bisa di upgrade sampai MacOS Big Sur
