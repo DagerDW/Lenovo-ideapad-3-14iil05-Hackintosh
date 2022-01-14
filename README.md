@@ -43,6 +43,10 @@ Sebelum memulai, pastikan untuk mengupdate BIOS [di sini](https://pcsupport.leno
 - "Boot" <b>Boot Mode</b> rubah ke <b>UEFI</b>,<b>Fast Boot</b> rubah ke <b>Disabled</b>, <b>USB Boot</b> rubah ke <b>Enabled</b>.
 - "Exit" <b>OS Optimized Defaults</b> rubah ke <b>Disabled</b>.
 
+# Catatan
+- Dualboot tidak akan berfungsi baik dengan DSDT yang saya miliki.
+- Gunakan tombol F12 untuk memilih boot dari BIOS (sangat di anjurkan).
+
 # Kredit
 - [Apple](https://www.apple.com) for macOS.
 - [Acidanthera](https://github.com/acidanthera) for most of the kexts.
