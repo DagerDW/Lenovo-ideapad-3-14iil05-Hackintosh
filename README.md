@@ -8,7 +8,7 @@ EFI file untuk Lenovo Ideapad 3 14iil05
 Penggunaan EFI Laptop Lenovo Ideapad 3 14iil05 di luar tanggung jawab saya, jika ada kerusakan pemasangan silahkan tanggung jawab sendiri, saya menggunakan MacOS Catalina, bisa di upgrade sampai MacOS Big Sur
 
 # Bootloader
-Saya menggunakan [OpenCore 0.6.7](https://github.com/acidanthera/OpenCorePkg)
+Saya menggunakan [OpenCore 0.7.5](https://github.com/acidanthera/OpenCorePkg)
 
 # Spesifikasi
 - <b>CPU</b>: [Intel i5-1035G4](https://ark.intel.com/content/www/id/id/ark/products/196591/intel-core-i5-1035g4-processor-6m-cache-up-to-3-70-ghz.html) Ice Lake-U
@@ -46,6 +46,10 @@ Sebelum memulai, pastikan untuk mengupdate BIOS [di sini](https://pcsupport.leno
 # Catatan
 - Dualboot tidak akan berfungsi baik dengan DSDT yang saya miliki.
 - Gunakan tombol F12 untuk memilih boot dari BIOS (sangat di anjurkan).
+- Silahkan edit berkas Config.plist dan sesuaikan SystemUUID dan SystemSerialNumber
+
+## Catatan kecil
+Mungkin inilah versi terakhir yang saya gunakan (OpenCore 0.7.5) dan BigSur 11.6.1, tidak akan ada update selanjutnya.
 
 # Kredit
 - [Apple](https://www.apple.com) for macOS.
